@@ -1,7 +1,7 @@
 # Eyup!
 
 💌 Madison here, she/her(s).<br/>
-💻 Current student with the School of Code.<br/>
+💻 Junior full-stack developer with the School of Code.<br/>
 🏙 Based in Sheffield, UK.<br/>
 🌱 Cats, gardening, writing and crafts.
 
@@ -47,6 +47,7 @@
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </a> 
 </p>
+
 <a href="https://github.com/madisonlowe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
