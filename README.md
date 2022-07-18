@@ -1,6 +1,6 @@
 # Eyup!
 
-My name is Madison and I use she/her(s) pronouns. In a previous life, I was a starving arts and humanities grad student. I'm now a starving junior full-stack developer with the School of Code. Currently based in Sheffield, UK.
+My name is Madison and I use she/her(s) pronouns. In a previous life, I was a starving arts and humanities grad student. Now, I'm a starving junior full-stack developer with the School of Code. Currently based in Sheffield, UK.
 
 <h2 align="left">Languages and Tools</h3>
 <p align="left"> 
