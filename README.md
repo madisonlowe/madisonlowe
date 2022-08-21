@@ -1,6 +1,6 @@
 # Eyup!
 
-My name is Madison and I use she/her(s) pronouns. In a previous life, I was a starving arts and humanities grad student. Now, I'm a starving junior full-stack developer with the School of Code. Currently based in Sheffield, UK.
+My name is Madison and I use she/her(s) pronouns. In a previous life, I was a starving arts and humanities grad student. Now, I'm a starving full-stack developer with the School of Code. Based in the North of England, UK.
 
 <a href="https://github.com/madisonlowe" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
