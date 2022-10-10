@@ -2,6 +2,13 @@
 
 My name's Madison, and in a previous life, I was a Literature MSc graduate who translated poetry from some very dead languages. Nowadays, I'm a full-stack development graduate from the School of Code, and I'm really enjoying working with some slightly more alive languages instead. Based in the North of England, she/her(s).
 
+Currently focusing on:
+
+- MongoDB, Mongoose, Mocha and Chai with [Moorsback](https://github.com/madisonlowe/moorsback)
+- TypeScript with Angular with [Moorsfront](https://github.com/madisonlowe/moorsfront)
+- Stretch goals, Next.js with React, and expanding our RESTful API with [Seasonal](https://github.com/SchoolOfCode/final-project_front-end-12)
+- TypeScript with React with [Notionish](https://github.com/madisonlowe/notionish)
+
 <a href="https://linkedin.com/in/madisonclowe" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
