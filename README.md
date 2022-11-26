@@ -5,9 +5,7 @@ My name's Madison, and in a previous life, I was a Literature MSc graduate who t
 Currently focusing on:
 
 - MongoDB, Mongoose, Mocha and Chai with [Moorsback](https://github.com/madisonlowe/moorsback)
-- TypeScript with Angular with [Moorsfront](https://github.com/madisonlowe/moorsfront)
-- Stretch goals, Next.js with React, and expanding our RESTful API with [Seasonal](https://github.com/SchoolOfCode/final-project_front-end-12)
-- TypeScript with React with [Notionish](https://github.com/madisonlowe/notionish)
+- Learning C# with [cSharpStart](https://github.com/madisonlowe/cSharpStart).
 
 <a href="https://linkedin.com/in/madisonclowe" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
