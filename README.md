@@ -4,7 +4,6 @@ My name's Madison, and in a previous life, I was a Literature MSc graduate who t
 
 Currently focusing on:
 
-- MongoDB, Mongoose, Mocha and Chai with [Moorsback](https://github.com/madisonlowe/moorsback).
 - Learning C# with [cSharpStart](https://github.com/madisonlowe/cSharpStart) and [studentFinanceCalc](https://github.com/madisonlowe/studentFinanceCalc).
 
 <a href="https://linkedin.com/in/madisonclowe" target="_blank">
