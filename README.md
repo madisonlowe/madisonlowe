@@ -1,7 +1,5 @@
 Hey! My name's Madison, and in a previous life, I was a Literature MSc graduate who translated poetry from some very dead languages. More recently, I'm a full-stack development bootcamp graduate, and enjoying working with some slightly more alive languages instead.
 
-Currently working on learning the basics of C#, and going deeper into TypeScript and JavaScript.
-
 <a href="https://linkedin.com/in/madisonclowe" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
